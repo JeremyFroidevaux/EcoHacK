@@ -13,3 +13,30 @@ The main objectives of EcoHacK are to:
 + discuss, exchange, and share experiences and best practices in sound recording analysis,
 
 - explore novel ways of linking acoustic data with environmental variables at different spatiotemporal scales.
+
+
+## Important information
+
+**Register here before Sept. 30th 2023**.
+Seats will be allocated on a first come, first serve basis due to the limited capacity (max 25 people). 
+
+
+There are two ways to participate to EcoHacK :
+
+* Propose a project idea at registration (see examples from last year [here](https://github.com/brain-bzh/EcoHacK-2022)) and find your teammates during Day 1.
+
+* Join a project during Day 1.
+
+All projects will be introduced during the “Project Pitch” session during Day 1, and on the afternoon on Day 3, all projects will present the work done during EcoHacK. Moreover, there will be opportunities to talk about any bio/ecoacoustic-related topics during **Blitz talks** and a **poster session**.
+
+**Feel free to propose your own idea!**
+
+**Local organizing committee
+
+- Dr Jeremy Froidevaux, University of Stirling, UK. Jeremy is a Leverhulme early-career research fellow at the University of Stirling, Scotland. He is a conservation biologist with broad interests in wildlife ecology and conservation. Using emergent bioacoustic methods, his research focuses on assessing the impacts of anthropogenic pressures on biodiversity, especially bats, birds, and recently bees.
+
+- Dr Nicolas Farrugia, IMT Atlantique, France. Nicolas is an assistant professor at IMT Atlantique, an elite technical university in France. His research interests include developing innovative methods to better understand Sounds and the Brain using modern machine learning and deep learning.
+
+- Dr Tom Bradfer-Lawrence, RSPB, UK. Tom is a Senior Conservation Scientist at RSPB. He is a landscape ecologist, interested in the conservation of biodiversity in human-modified landscapes. His work includes community ecology, ecoacoustics, and nature-based solutions to climate change.
+
+

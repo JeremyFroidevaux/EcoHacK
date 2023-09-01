@@ -17,7 +17,7 @@ The main objectives of EcoHacK are to:
 
 ## Important information
 
-**Register here before Sept. 30th 2023**.
+**Register [here](https://docs.google.com/forms/d/e/1FAIpQLSeb7mZvoK_0fm701NiSiVj7NsSpJa2Bpr21-KJxEkzvMQap3Q/viewform) before Sept. 30th 2023**.
 Seats will be allocated on a first come, first serve basis due to the limited capacity (max 25 people). 
 
 ## Participating to EcoHacK
@@ -60,4 +60,8 @@ Examples of projects / themes :
 
 - Dr Tom Bradfer-Lawrence, RSPB, UK. Tom is a Senior Conservation Scientist at RSPB. He is a landscape ecologist, interested in the conservation of biodiversity in human-modified landscapes. His work includes community ecology, ecoacoustics, and nature-based solutions to climate change.
 
+## Funding 
+
+This event is funded by the Scottish Alliance for Geoscience, Environment and Society. 
+<img width="205" alt="SAGE" src="https://github.com/JeremyFroidevaux/EcoHacK/assets/23056411/6c2ebc1b-6b88-451f-ad8d-bb3ac8e3ea51">
 

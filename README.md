@@ -17,7 +17,7 @@ The main objectives of EcoHacK are to:
 
 ## Important information
 
-**Register [here](https://docs.google.com/forms/d/e/1FAIpQLSeb7mZvoK_0fm701NiSiVj7NsSpJa2Bpr21-KJxEkzvMQap3Q/viewform) before Sept. 30th 2023**.
+**Register [here](https://docs.google.com/forms/d/e/1FAIpQLSe9DTWfn4epZyyhdTpqlEOjJAHf64p87lBxt4OF-1FeokUs9A/viewform) before Sept. 30th 2023**.
 Seats will be allocated on a first come, first serve basis due to the limited capacity (max 25 people). 
 
 ## Participating to EcoHacK

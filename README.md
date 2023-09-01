@@ -20,6 +20,7 @@ The main objectives of EcoHacK are to:
 **Register here before Sept. 30th 2023**.
 Seats will be allocated on a first come, first serve basis due to the limited capacity (max 25 people). 
 
+## Participating to EcoHacK
 
 There are two ways to participate to EcoHacK :
 
@@ -29,9 +30,29 @@ There are two ways to participate to EcoHacK :
 
 All projects will be introduced during the “Project Pitch” session during Day 1, and on the afternoon on Day 3, all projects will present the work done during EcoHacK. Moreover, there will be opportunities to talk about any bio/ecoacoustic-related topics during **Blitz talks** and a **poster session**.
 
-**Feel free to propose your own idea!**
+**Feel free to propose your own idea!** All confirmed projects are listed below. 
 
-**Local organizing committee
+Examples of projects / themes :
+
+- Using ecoacoustic indices to characterize biodiversity in field recordings
+
+- Machine learning datasets and models for species identification using sound
+
+- Visualization of large ecoacoustics recordings databases
+
+- Statistics and machine learning in ecoacoustics
+
+- Work on specific datasets / research questions
+
+- Create a tutorial on specific methods / toolboxes / …
+
+
+## List of projects
+
+- Using BirdNet algorithm to classify pollinator buzzing sounds
+- ...
+
+## Local organizing committee
 
 - Dr Jeremy Froidevaux, University of Stirling, UK. Jeremy is a Leverhulme early-career research fellow at the University of Stirling, Scotland. He is a conservation biologist with broad interests in wildlife ecology and conservation. Using emergent bioacoustic methods, his research focuses on assessing the impacts of anthropogenic pressures on biodiversity, especially bats, birds, and recently bees.
 

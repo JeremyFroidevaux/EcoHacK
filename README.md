@@ -2,7 +2,7 @@
 
 The second edition of EcoHacK will take place at the University of Stirling (Campus Central), 9th -11th  October 2023.
 
-With the advent of low-cost passive detectors and the recent development of new acoustic sampling methods, recording ecological sounds in the field has gained momentum amongst researchers and practitioners worldwide. Analysing sound recordings was traditionally done manually but quickly became too time-consuming a process. This has been overcome using automated methods; acoustic indices are used to summarise the sonic environment, and sound recognition algorithms based on machine learning can identify specific sounds of interest with high confidence. As these techniques are evolving rapidly, this workshop will provide an opportunity to work collaboratively on projects (similar to a hackathon format), learn, discuss, and exchange ideas on state-of-the-art methods in ecoacoustics.
+With the advent of low-cost passive detectors and the recent development of new acoustic sampling methods, recording ecological sounds in the field has gained momentum amongst researchers and practitioners worldwide. Analysing sound recordings was traditionally done manually but quickly became too time-consuming a process. This has been overcome using automated methods; acoustic indices are used to summarise the sonic environment, and sound recognition algorithms based on machine learning can identify specific sounds of interest with high confidence. As these techniques are evolving rapidly, this workshop will provide an opportunity to work collaboratively on projects (similar to a hackathon format), learn, discuss, and exchange ideas on state-of-the-art methods in bio/eco acoustics.
 
 
 The main objectives of EcoHacK are to:

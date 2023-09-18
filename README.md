@@ -51,7 +51,12 @@ Examples of projects / themes :
 ## List of projects
 
 - Using BirdNet algorithm to classify pollinator buzzing sounds
-- ...
+- Investigating the impact of using different recorders (and potentially how to equalise differences)
+- Extracting some inference or features from a bioacoustic dataset
+- Challenge in identifying gibbon presence/behaviour from their vocalizations
+- Exploring the effects of urbanization on birds and bats along an urban-rural gradient
+- Developing an open source acoustic classifier for African and British bat species in R
+- Improving the automatic recognition of songbirds in Doñana National Park
 
 ## Local organizing committee
 

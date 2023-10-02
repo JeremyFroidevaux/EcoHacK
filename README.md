@@ -69,8 +69,9 @@ Examples of projects / themes :
 ## Funding 
 
 This event is funded by the Scottish Alliance for Geoscience, Environment and Society, the Company of Biologists and the UK Acoustics Network. 
-<img width="205" alt="SAGE" src="https://github.com/JeremyFroidevaux/EcoHacK/assets/23056411/6c2ebc1b-6b88-451f-ad8d-bb3ac8e3ea51">
-<img width="512" alt="UKAN" src="https://github.com/JeremyFroidevaux/EcoHacK/assets/23056411/a437eb87-f263-4a28-a864-a98970823091">
-<img width="245" alt="CompanyOfBiologists" src="https://github.com/JeremyFroidevaux/EcoHacK/assets/23056411/d652bbc0-9d33-4d1a-ae6d-02aa35cafae4">
+
+<img width="200" alt="SAGE" src="https://github.com/JeremyFroidevaux/EcoHacK/assets/23056411/6c2ebc1b-6b88-451f-ad8d-bb3ac8e3ea51">
+<img width="200" alt="UKAN" src="https://github.com/JeremyFroidevaux/EcoHacK/assets/23056411/a437eb87-f263-4a28-a864-a98970823091">
+<img width="200" alt="CompanyOfBiologists" src="https://github.com/JeremyFroidevaux/EcoHacK/assets/23056411/d652bbc0-9d33-4d1a-ae6d-02aa35cafae4">
 
 
